@@ -58,7 +58,7 @@ To get started with Saborista, follow these steps:
 - JavaScript
 
 ## ✍️ Authors <a name = "authors"></a>
-- [Ariel](https://github.com/Ariel-A-C)
+- [Ariel](https://github.com/A-r-i-e-l-A)
 - [Miquel](https://github.com/miquelnicolas)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
